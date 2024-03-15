@@ -12,6 +12,11 @@ Hanya dia
 Dia buatku nyaman
 <<<<<<< HEAD
 Dalam hangat pelukan
+<<<<<<< HEAD
+=======
+Dia peras yang mengerti yang kurasa
+Hanya dia
+>>>>>>> 688ad0a7ebe54c53480c7360f1398334d1dc9701
 =======
 Kan ku daki pegunungan himalaya
 
