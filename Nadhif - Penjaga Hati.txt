@@ -10,4 +10,21 @@ Dia seorang tiada lain tiada bukan
 Hanya dia
 
 Dia buatku nyaman
+<<<<<<< HEAD
 Dalam hangat pelukan
+=======
+<<<<<<< HEAD
+Dalam hangat pelukan
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+Dia peras yang mengerti yang kurasa
+Hanya dia
+>>>>>>> 688ad0a7ebe54c53480c7360f1398334d1dc9701
+>>>>>>> caa20967fed8e4e30a3e0394e6d90645f08dead4
+=======
+Kan ku daki pegunungan himalaya
+
+>>>>>>> c373fc78a2e00918bfd6028a07749e2ca53039e7
+>>>>>>> 66ea2aef1f94cf73a00a4e230f2de3a210207c14
